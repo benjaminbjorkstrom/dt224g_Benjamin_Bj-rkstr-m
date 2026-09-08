@@ -4,7 +4,7 @@ Detta är min webbplats som jag har skapat i första kursen på webbutvecklings 
 ## Tekniker som har använts:
 * HTML
 
-## Länkaar till det publicerade versionerna
+## Länkar till det publicerade versionerna
 * **Vercel:** https://dt224g-benjamin-bj-rkstr-m.vercel.app/
 * **Netlify** https://moment12.netlify.app
 
